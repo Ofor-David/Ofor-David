@@ -2,8 +2,6 @@
 
 **A passionate Cloud engineer specializing in cloud infrastructure security and DevOps**
 
-*  I’m currently working on **"Project WatchDog",** a comprehensive container security and compliance monitoring solution designed for production-grade AWS deployments.
-
 * You can always find out what I'm currently up to and my carreer progress on <a href="https://www.linkedin.com/in/david-ofor-23bb75354/">Linkedin</a>.
 
 
