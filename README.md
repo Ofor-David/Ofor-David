@@ -3,12 +3,13 @@
 **A passionate Cloud engineer specializing in cloud infrastructure security and DevOps**
 
 * You can always find out what I'm currently up to and my carreer progress on <a href="https://www.linkedin.com/in/david-ofor-23bb75354/">Linkedin</a>.
+* Or check out my <a href="https://drive.google.com/file/d/1mQpOPq3EVJABT3LPEWZrsQ1YZ2ssqB1L/view">resume</a>. 
 
 
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,java,mongodb,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,java,mongodb,postgresql" />
   </a>
 </p>
 
