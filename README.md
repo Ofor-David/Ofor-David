@@ -9,7 +9,7 @@
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,java,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,typescript,mongodb,postgresql" />
   </a>
 </p>
 
