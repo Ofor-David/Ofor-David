@@ -3,7 +3,7 @@
 **A passionate Cloud engineer specializing in cloud infrastructure security and DevOps**
 
 * You can always find out what I'm currently up to and my carreer progress on <a href="https://www.linkedin.com/in/david-ofor-23bb75354/">Linkedin</a>.
-* Or check out my <a href="https://drive.google.com/file/d/1GRkO2UO0Y_sIn3nmFBT2v8z2jVB4bSX0/view">resume</a>. 
+* Or check out my <a href="https://drive.google.com/file/d/176gZik6DRIWhj9dm7Xo7B7jkuN72EGDF/view?usp=sharing">resume</a>. 
 
 
 <p align="center">
